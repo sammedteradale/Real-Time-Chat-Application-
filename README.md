@@ -17,4 +17,10 @@ Tools i used : React.js > used for to build the chat screen.
 
 
 > Building this chat app was a great way to see how modern internet                communication works.It taught me that web development isn't just about making things look pretty; it’s about managing how data moves through the air. In the future, I hope to add a database so the messages are saved even if the user closes their browser.
+
+#OUTPUT
+
+<img width="1908" height="1191" alt="Image" src="https://github.com/user-attachments/assets/fc043d28-5dc3-4701-996b-f0dc798dbe9c" />
+
+
                
